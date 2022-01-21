@@ -1,0 +1,1 @@
+Darwin ZhideMacBook-Pro.local 18.7.0 Darwin Kernel Version 18.7.0: Mon Aug 31 20:53:32 PDT 2020; root:xnu-4903.278.44~1/RELEASE_X86_64 x86_64
